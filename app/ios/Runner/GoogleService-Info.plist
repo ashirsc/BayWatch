@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>388163680283-6uvsdru02l9lvt7scues9bc668qghrrs.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.388163680283-6uvsdru02l9lvt7scues9bc668qghrrs</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD9fEDUs-9fB1jq0KM53r-ChEZ9Ch8THtQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>388163680283</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.app</string>
+	<key>PROJECT_ID</key>
+	<string>baywatch-6dd1b</string>
+	<key>STORAGE_BUCKET</key>
+	<string>baywatch-6dd1b.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:388163680283:ios:741d7fc971a3e4811d60be</string>
+	<key>DATABASE_URL</key>
+	<string>https://baywatch-6dd1b.firebaseio.com</string>
+</dict>
+</plist>

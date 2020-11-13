@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "388163680283",
+    "firebase_url": "https://baywatch-6dd1b.firebaseio.com",
+    "project_id": "baywatch-6dd1b",
+    "storage_bucket": "baywatch-6dd1b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:388163680283:android:368ae1fa670fd06f1d60be",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "388163680283-ip81u91tgdqif4d7ms2ufo11cvcsq92e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqbwjjwRME7YrKc-_cEIe3E0b4qkbbkWI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "388163680283-ip81u91tgdqif4d7ms2ufo11cvcsq92e.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "388163680283-6uvsdru02l9lvt7scues9bc668qghrrs.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
